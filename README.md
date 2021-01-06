@@ -10,9 +10,9 @@ It's very primitive at this point. We plan to provide a demo of the system runni
 
 See port status at https://wiki.freebsd.org/riscv/ports
 
-Last year, we showed a demo of the OS running on the x64 architecture:
+Last year, we showed a demo of the OS running on the x64 architecture.
 
-[Demo](https://youtu.be/GJDRvyvc_ko)
+See the [Demo](https://youtu.be/GJDRvyvc_ko)
 
 We're also looking forward to take advantage of the Linux® Binary Compatibility layer. See https://www.freebsd.org/doc/handbook/linuxemu.html
 
